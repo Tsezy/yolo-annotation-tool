@@ -1,6 +1,6 @@
 # TSEZY 智能自动标注网站
 
-一个可在本机运行的目标检测数据集标注网站，后端使用 Flask，AI 推理使用 Ultralytics YOLO。
+一个完全用AI编写的可在本机运行的目标检测数据集标注网站，后端使用 Flask，AI 推理使用 Ultralytics YOLO。
 
 ## 功能
 
